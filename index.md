@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project List
+title: Main
 ---
 
 
@@ -10,7 +10,7 @@ title: Project List
 
 
 
-### 📝 Project Ideas  
+# 📝 Project Ideas  
 <br>
 <br>
 <br>
