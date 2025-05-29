@@ -1,4 +1,3 @@
-<!-- projects/project1.md -->
 ---
 layout: default
 title: VR Chat Project
@@ -6,13 +5,14 @@ title: VR Chat Project
 
 # VR Chat Project (with Deep Learning)
 
-## 📌 프로젝트 개요
-딥러닝 기반으로 Sparse Sensor만을 활용한 Full-body Pose Estimation & Motion Retargeting을 수행한 VR Chat 프로젝트입니다.
+## 📌 개요
+딥러닝 기반 Sparse Sensor(HMD + 컨트롤러 2개)로 전신 포즈를 예측하고, 사용자 체형에 맞게 리타게팅한 VR 프로젝트.
 
-## 🔧 사용 기술
-- Unity + SteamVR
+## 🔧 기술 스택
 - Python (PyTorch)
+- Unity + SteamVR
 - SMPL 모델
+- ZeroMQ / TCP 소켓 통신
 
-## 📎 링크(현재 링크는 존재하지 않음)
-- [GitHub 링크](https://github.com/yourname/vrchat-project)
+## 📎 관련 링크
+- [GitHub 저장소](https://github.com/yourname/vrchat-project)
