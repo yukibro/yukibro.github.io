@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Project check list
+title: Project List
 ---
 
-# Welcome to my blog
+# 📝 Project Ideas
 
-[프로젝트 목록](projects/project1.md)
+- [VR Chat Project (딥러닝 기반)](/projects/project1)
+- [Live2D 리깅 자동화 프로젝트](/projects/project2)
