@@ -1,6 +1,6 @@
 title: 인형의 블로그
 description: 딥러닝 기반 VR 및 Live2D 프로젝트 아카이브
-theme: minima
+#theme: minima
 markdown: kramdown
 sass:
   style: compressed
