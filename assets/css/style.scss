@@ -1,7 +1,25 @@
-// assets/css/style.scss
 body {
   background-color: #121212;
   color: #e0e0e0;
   font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
 }
-a { color: #80cbc4; }
+
+a {
+  color: #80cbc4;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+header, footer {
+  background: #1e1e1e;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #ffd54f;
+}
